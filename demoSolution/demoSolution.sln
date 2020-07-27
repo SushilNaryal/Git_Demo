@@ -3,6 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo.Application", "Demo.Application", "{6F6F58F3-625B-444F-B959-673CF0C34F57}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo.Domain", "Demo.Domain", "{F02A9F00-CB8F-44C7-984B-56C1CF6C60D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo.Infra.Data", "Demo.Infra.Data", "{361C4852-C018-4899-9FC2-0F0FE2838734}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo.Infra.IoC", "Demo.Infra.IoC", "{B67E2EB3-AD93-445B-BD12-CC204A033145}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo.UI.AngularWebApp", "Demo.UI.AngularWebApp", "{50A0068C-74D9-496F-8AD2-317A9C04C1A6}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
